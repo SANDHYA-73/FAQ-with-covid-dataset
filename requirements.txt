@@ -1,0 +1,12 @@
+streamlit
+faiss-cpu
+chromadb
+openai
+sentence-transformers
+pandas
+fastapi
+uvicorn
+python-dotenv
+requests
+tqdm
+numpy
