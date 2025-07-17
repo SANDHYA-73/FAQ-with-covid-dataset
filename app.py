@@ -41,4 +41,4 @@ if user_input:
         with st.chat_message("assistant"):
             st.markdown(f"**Bot:** {bot_response}")
     else:
-        st.error("❌ Error fetching response. Try again later.")
+        st.error("Error fetching response. Try again later.")
